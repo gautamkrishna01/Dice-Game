@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/Dice-Game/static/js/main.369b2f11.js",
+    "static/media/dices.png": "/Dice-Game/static/media/dices.a7ba644e0fee22bc4de6.png",
+    "index.html": "/Dice-Game/index.html",
+    "main.369b2f11.js.map": "/Dice-Game/static/js/main.369b2f11.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.369b2f11.js"
+  ]
+}
